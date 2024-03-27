@@ -4,7 +4,7 @@ Explore the California Housing dataset in this machine learning project aimed at
 ## Project Structure
 
 - **datasets/**
-  - [housing.csv](https://www.kaggle.com/datasets/camnugent/california-housing-prices) (from Kaggle California House Price Dataset) - Dataset containing historical data used for training and testing the machine learning model.
+  - [housing.csv](https://www.kaggle.com/datasets/camnugent/california-housing-prices) (from Kaggle California Housing Prices Dataset) - Dataset containing historical data used for training and testing the machine learning model.
 
 - **models/**
   - [best_model.pkl.gz](models/best_model.pkl.gz) - The trained machine learning model serialized and compressed using gzip format.
