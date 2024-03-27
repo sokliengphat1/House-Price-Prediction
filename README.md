@@ -36,3 +36,8 @@ pip install pandas matplotlib seaborn wordcloud scikit-learn streamlit scipy job
 
 You can test the application by navigating to the src folder and running the following command:
 - streamlit run app.py
+
+![image](https://github.com/sokliengphat1/Median-House-Price-Prediction/assets/156199069/183f2344-55b6-45ee-a363-3c2824b74138)
+![image](https://github.com/sokliengphat1/Median-House-Price-Prediction/assets/156199069/d2922bef-85e1-49b5-af32-724e522f0958)
+
+
