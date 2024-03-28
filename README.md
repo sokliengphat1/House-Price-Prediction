@@ -8,7 +8,7 @@ Explore the California Housing dataset in this machine learning project aimed at
 
 - **models/**
   - [best_model.pkl.gz](models/best_model.pkl.gz) - The trained machine learning model serialized and compressed using gzip format.
-  - [scaler.pkl](models/scaler.pkl) - The serialized MinMaxScaler object used to scale features during training.
+  - [scaler.pkl](models/scaler.pkl) - The serialized StandardScaler object used to scale features during training.
 
 - **notebooks/**
   - [Median_House_Price_Prediction.ipynb](notebooks/Median_House_Price_Prediction.ipynb) - Jupyter notebook containing code for data exploration, preprocessing, model training, and evaluation.
