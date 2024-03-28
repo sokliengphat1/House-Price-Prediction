@@ -25,7 +25,6 @@ To run the code in this project, you will need the following libraries:
 - seaborn
 - scikit-learn
 - streamlit
-- scipy
 - joblib
 
 You can install these dependencies using pip:
